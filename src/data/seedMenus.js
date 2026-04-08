@@ -216,6 +216,5 @@ export const seedMenus = [
     lng: 100.96189
   }
   
-  
 
 ]
