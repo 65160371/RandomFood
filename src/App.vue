@@ -15,6 +15,21 @@ import { useAuthStore } from '@/stores/auth'
 const authStore = useAuthStore()
 </script>
 
+--------------------------
+<script setup>
+import { onMounted } from "vue";
+import { updateLatLng } from "./scripts/updateLatLng";
+
+onMounted(() => {
+  updateLatLng();
+});
+</script>
+
+<template>
+  <div>Updating...</div>
+</template>
+----------------------------
+
 <style>
 * {
   margin: 0;
