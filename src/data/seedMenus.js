@@ -114,6 +114,106 @@ export const seedMenus = [
     mapsUrl: 'https://maps.app.goo.gl/swRnm7BkdnbDih4S6',
     lat: 13.27432,
     lng: 100.92363
+  },
+  {
+    id: 'menu_012',
+    imageFile: '12-cutepig',
+    restaurantName: 'Cute Pig Korean BBQ บางแสน',
+    menuName: 'บาร์บีคิวเกาหลี',
+    address: '37 6 ถนน บางแสนล่าง ตำบลแสนสุข เมือง ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/eCKiAVQC6vmPss368',
+    lat: 13.28109,
+    lng: 100.91999
+  },
+  {
+    id: 'menu_013',
+    imageFile: '13-nouekateam',
+    restaurantName: 'JOBJAB จ๊อบแจ๊บ - ไก่อบซี่โครงอบ บางแสน@ซอยสดใส',
+    menuName: 'เนื้อกระเทียม',
+    address: '59 ร้าน JOBJAB ใต้หอพัก สุขสัมพันธ์อพาทเมนท์ 7 ถนนบางแสนสาย 4 ใต้ ต.แสนสุข อ.เมือง ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/p89r8AnCjvowCb318',
+    lat: 13.27980,
+    lng: 100.93046
+  },
+  {
+    id: 'menu_014',
+    imageFile: '14-mhukropkapowkaidow',
+    restaurantName: 'Charm กะเพรา',
+    menuName: 'หมูกรอบกะเพราไข่ดาว',
+    address: '16 52 ถนนบางแสนสาย 4 ใต้ ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/JKaSm9mHXzzUGvba9',
+    lat: 13.27661,
+    lng: 100.93016
+  },
+  {
+    id: 'menu_015',
+    imageFile: '15-pingping',
+    restaurantName: 'Pingping ice cream & friends',
+    menuName: 'บิงซู',
+    address: '63/8 Sansuek, ตำบล เหมือง อำเภอเมืองชลบุรี ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/PNLU63NFqxJqZrkg9',
+    lat: 13.27002,
+    lng: 100.92661
+  },
+  {
+    id: 'menu_016',
+    imageFile: '16-radnha',
+    restaurantName: 'ราดหน้ายอดผัก นายสน',
+    menuName: 'ราดหน้าหมี่กรอบ',
+    address: 'ถ. บางแสนสาย 4 น. ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/4bnQeSMxXpM4JqxF9',
+    lat: 13.28454,
+    lng: 100.92857
+  },
+  {
+    id: 'menu_017',
+    imageFile: '17-icecream',
+    restaurantName: 'I SEA CREAM',
+    menuName: 'ไอศครีมโฮมเมด',
+    address: '108/16-17 ห้อง1 ชั้น 1 ถนน บางแสนล่าง ซอย 12/1 ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/gT6RxV2JYZ579CQFA',
+    lat: 13.27224,
+    lng: 100.92255
+  },
+  {
+    id: 'menu_018',
+    imageFile: '18-meyokped',
+    restaurantName: 'ร้านเป็ดย่าง BY ลุงเป็ด ซอยลีลา',
+    menuName: 'หมี่หยกเป็ด',
+    address: 'ล็อค20-21 ข้างตึกเลิศหิรัญ แมนชั่น 14/98 ถนน 4 สายใต้ ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/S6VC1R1VHf9xTT1q9',
+    lat: 13.27895,
+    lng: 100.92970
+  },
+  {
+    id: 'menu_019',
+    imageFile: '19-khaomhukrob',
+    restaurantName: 'ร้านเป็ดย่าง BY ลุงเป็ด ซอยลีลา',
+    menuName: 'ข้าวหมูกรอบ',
+    address: 'ล็อค20-21 ข้างตึกเลิศหิรัญ แมนชั่น 14/98 ถนน 4 สายใต้ ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/S6VC1R1VHf9xTT1q9',
+    lat: 13.27895,
+    lng: 100.92970
+  },
+  {
+    id: 'menu_020',
+    imageFile: '20-ramen',
+    restaurantName: 'โนะมิสุเกะ ราเมง',
+    menuName: 'ราเม็งทงคัตสึ',
+    address: 'บางแสนสาย 1 ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/rEAw9FYTZoSkQB11A',
+    lat: 13.27344,
+    lng: 100.92207
+  },
+  {
+    id: 'menu_021',
+    imageFile: '21-sushiro',
+    restaurantName: 'Sushiro',
+    menuName: 'ซูชิสายพาน',
+    address: 'ห้องเลขที่ 354, 355, 356, ชั้น 3 ศูนย์การค้าเซ็นทรัล ชลบุรี ตำบล เสม็ด อำเภอเมืองชลบุรี ชลบุรี 20000',
+    mapsUrl: 'https://maps.app.goo.gl/9MiSg23eCkKi89Lj9',
+    lat: 13.35544,
+    lng: 100.96189
   }
   
   
