@@ -11,8 +11,8 @@ export const seedMenus = [
     menuName: 'ข้าวแกงกะหรี่',
     address: '67 14 ถ. เนตรดี ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/sx36UgQvjzWgaZdi7',
-    lat: 13.2695347773058,
-    lng: 100.92576903615522
+    lat: 13.26953,
+    lng: 100.92577
   },
   {
     id: 'menu_002',
@@ -21,8 +21,8 @@ export const seedMenus = [
     menuName: 'ข้าวมันไก่',
     address: '49 14 ถ. เนตรดี ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/pL5xyWgsHahC6xMR8',
-    lat: 13.272643401288123,
-    lng: 100.93106185181313
+    lat: 13.27264,
+    lng: 100.93106
   },
   {
     id: 'menu_003',
@@ -31,8 +31,8 @@ export const seedMenus = [
     menuName: 'ข้าวขาหมู',
     address: 'ตลาดซีไซร์, 4 ถนนบางแสนสาย4 ใต้ ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/Qso1Hc6mop5NJZxD9',
-    lat: 13.27825281730338,
-    lng: 100.93121445181326
+    lat: 13.27825,
+    lng: 100.93121
   },
   {
     id: 'menu_004',
@@ -41,8 +41,8 @@ export const seedMenus = [
     menuName: 'ข้าวผัดหมู',
     address: '59, 41 ถนนบางแสนสาย4 ใต้ ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/jai3NGUUQrp4wCxn6',
-    lat: 13.28448702203559,
-    lng: 100.9287555229775
+    lat: 13.28449,
+    lng: 100.92876
   },
   {
     id: 'menu_005',
@@ -51,8 +51,8 @@ export const seedMenus = [
     menuName: 'ข้าวหมูแดงหมูกรอบ',
     address: '85 9 ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/jkFw9F9wBxps1Hjz5',
-    lat: 13.273450331539472,
-    lng: 100.92387661133554
+    lat: 13.27345,
+    lng: 100.92388
   },
   {
     id: 'menu_006',
@@ -61,8 +61,8 @@ export const seedMenus = [
     menuName: 'หม่าล่าทั่ง',
     address: '110 ถ. เนตรดี ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/Kv255Kn6jVxJpZGKA',
-    lat: 13.270362337683341,
-    lng: 100.92610378249968
+    lat: 13.27036,
+    lng: 100.92610
   },
   {
     id: 'menu_007',
@@ -71,8 +71,8 @@ export const seedMenus = [
     menuName: 'หม่าล่าทั่ง',
     address: '20/22 ถนนบางแสนล่าง ซอย 4/2 ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/Gtx5g7uy5FWaecNT7',
-    lat: 13.282260833204012,
-    lng: 100.91876679414163
+    lat: 13.28226,
+    lng: 100.91877
   },
   {
     id: 'menu_008',
@@ -81,8 +81,8 @@ export const seedMenus = [
     menuName: 'ก๋วยเตี๋ยวน้ำตก',
     address: '16 114 ถนนบางแสนสาย4 ใต้ ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/75c6RYtugQ7XXHek6',
-    lat: 13.278834894892961,
-    lng: 100.9295125383207
+    lat: 13.27883,
+    lng: 100.92951
   },
   {
     id: 'menu_009',
@@ -91,8 +91,8 @@ export const seedMenus = [
     menuName: 'ก๋วยเตี๋ยวเย็นตาโฟ',
     address: '16 114 ถนนบางแสนสาย4 ใต้ ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/75c6RYtugQ7XXHek6',
-    lat: 13.278834894892961,
-    lng: 100.9295125383207
+    lat: 13.27883,
+    lng: 100.92951
   },
 // เพิ่มเมนูที่เหลือได้ที่นี่ในรูปแบบเดียวกัน
   {
@@ -104,7 +104,18 @@ export const seedMenus = [
     mapsUrl: 'https://maps.app.goo.gl/9emp3B7YgGdn6Fvn7',
     lat: 13.28117,
     lng: 100.91989
+  },
+  {
+    id: 'menu_011',
+    imageFile: '11-sarang',
+    restaurantName: 'ซารัง บุฟเฟต์',
+    menuName: 'หมูย่างเกาหลี',
+    address: '85 12 ถนน บางแสนลำง ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
+    mapsUrl: 'https://maps.app.goo.gl/swRnm7BkdnbDih4S6',
+    lat: 13.27432,
+    lng: 100.92363
   }
+  
   
 
 ]
