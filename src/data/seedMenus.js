@@ -102,8 +102,8 @@ export const seedMenus = [
     menuName: 'บิบิมบับ',
     address: '59, 41 ถนนบางแสนสาย 4 ใต้ ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/9emp3B7YgGdn6Fvn7',
-    lat: 13.281173164056172,
-    lng: 100.91989323838901
+    lat: 13.28117,
+    lng: 100.91989
   }
   
 
