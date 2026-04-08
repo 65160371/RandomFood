@@ -11,8 +11,8 @@ export const seedMenus = [
     menuName: 'ข้าวแกงกะหรี่',
     address: '67 14 ถ. เนตรดี ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130',
     mapsUrl: 'https://maps.app.goo.gl/sx36UgQvjzWgaZdi7',
-    lat: 13.2891,
-    lng: 100.9253
+    lat: 13.2695347773058,
+    lng: 100.92576903615522
   },
   {
     id: 'menu_002',
